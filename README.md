@@ -108,10 +108,6 @@ To run this project, you will need to add the following environment variables to
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Feedback
-
-If you have any feedback, please reach out to us at jatinsharma089659@gmail.com
-
 ## Developer
 
-- [@kiddodev050](https://github.com/kiddodev050/)
+- [@kiddodev050](https://github.com/devilhacker0119/)
