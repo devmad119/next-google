@@ -52,7 +52,7 @@ Create a directory or a folder
 Clone the project
 
 ```bash
-  git clone https://github.com/j471n/next-google.git
+  git clone https://github.com/devilhacker0119/next-google.git
 ```
 
 Go to the project directory
